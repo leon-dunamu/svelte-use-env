@@ -1,6 +1,6 @@
 {
   "name": "@goesvt/svelte-use-env",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "using environment variables with svelte",
   "main": "index.js",
   "scripts": {

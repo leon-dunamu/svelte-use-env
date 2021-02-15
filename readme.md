@@ -42,3 +42,19 @@ export default {
     ...
 }
 ```
+
+<br/>
+
+then, you can create & use `.env` file as follows
+
+```bash
+APP_KEY=vr9e29399g83gnrvesd
+```
+
+<br/>
+
+```jsx
+/* App.js */
+
+console.log(process.env.APP_KEY); // vr9e29399g83gnrvesd
+```
