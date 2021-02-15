@@ -1,0 +1,29 @@
+{
+  "name": "@goesvt/svelte-env",
+  "version": "1.0.5",
+  "description": "using environment variables with svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Seok2/svelte-env.git"
+  },
+  "keywords": [
+    "svelte",
+    "env",
+    "environment",
+    "variables"
+  ],
+  "author": "1seok2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1Seok2/svelte-env/issues"
+  },
+  "homepage": "https://github.com/1Seok2/svelte-env#readme",
+  "dependencies": {
+    "@rollup/plugin-replace": "^2.3.4",
+    "dotenv": "^8.2.0"
+  }
+}
